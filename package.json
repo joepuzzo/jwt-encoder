@@ -9,8 +9,11 @@
   "bin": {
     "jwt": "./index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "jwt",
+    "jwt-encoder"
+  ],
+  "author": "Joe Puzzo",
   "license": "ISC",
   "dependencies": {
     "jsonwebtoken": "^8.2.0"
