@@ -1,10 +1,10 @@
 {
   "name": "jwt-encoder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A command line tool for encoding a jwt token",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1", 
+    "test": "echo \"Error: no test specified\" && exit 1",
     "postversion": "git push origin master",
     "postPublish": "git push --tags"
   },
