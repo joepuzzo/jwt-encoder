@@ -15,6 +15,10 @@
     "jwt",
     "jwt-encoder"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joepuzzo/jwt-encoder"
+  },
   "author": "Joe Puzzo",
   "license": "ISC",
   "dependencies": {
